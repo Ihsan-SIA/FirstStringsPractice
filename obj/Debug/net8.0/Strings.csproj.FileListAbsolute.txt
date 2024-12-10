@@ -1,0 +1,28 @@
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\bin\Debug\net8.0\Strings.exe
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Users\ihsan\Desktop\Code Ihsan\Strings\obj\Debug\net8.0\ref\Strings.dll
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\bin\Debug\net8.0\Strings.exe
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Users\ihsan\Desktop\CodeIhsan\Strings\obj\Debug\net8.0\ref\Strings.dll
